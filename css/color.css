@@ -1,0 +1,34 @@
+.red-flat { background-color: #E41E35 }
+.red-flat .secondary-bg { background-color: #A5131C }
+.red-flat .accent-bg { background-color: #193031 }
+.red-flat .primary-color { color: #FFFFFF }
+.red-flat .secondary-color { color: #FBDFE2 }
+.red-flat .svg-fill { fill: #FFFFFF }
+
+.red-gradient { background: linear-gradient(#A5131C, #E41E35) }
+.red-gradient .secondary-bg { background-color: #A5131C }
+.red-gradient .accent-bg { background-color: #193031 }
+.red-gradient .primary-color { color: #FFFFFF }
+.red-gradient .secondary-color { color: #FBDFE2 }
+.red-gradient .svg-fill { fill: #FFFFFF }
+
+.red-accent { background-color: #193031 }
+.red-accent .secondary-bg { background-color: #A5131C }
+.red-accent .accent-bg { background-color: #E41E35 }
+.red-accent .primary-color { color: #FFFFFF }
+.red-accent .secondary-color { color: #E0E3E3 }
+.red-accent .svg-fill { fill: #FFFFFF }
+
+.red-black { background-color: #A5131C }
+.red-black .secondary-bg { background-color: #E41E35 }
+.red-black .accent-bg { background-color: #193031 }
+.red-black .primary-color { color: #FFFFFF }
+.red-black .secondary-color { color: #F2DEDF }
+.red-black .svg-fill { fill: #FFFFFF }
+
+.red-white { background-color: #FFFFFF }
+.red-white .secondary-bg { background-color: #FBDFE2 }
+.red-white .accent-bg { background-color: #193031 }
+.red-white .primary-color { color: #000000 }
+.red-white .secondary-color { color: #8F8F8F }
+.red-white .svg-fill { fill: #E41E35 }
